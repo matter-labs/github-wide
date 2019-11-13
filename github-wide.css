@@ -108,3 +108,10 @@ button.discussion-sidebar-toggle {
   padding-left: 30px !important;
   padding-right: 30px !important;
 }
+
+
+@media (min-width: 768px) {
+.wiki-rightbar {
+    width: 360px!important;
+}
+}
